@@ -15,5 +15,5 @@ void loop() {   // Read the raw analog value from the photocell
     digitalWrite(yellowLedPin, LOW);  // Turn yellow LED OFF
   }
   
-  delay(100); // Small pause to prevent rapid flickering
+  delay(100); 
 }
