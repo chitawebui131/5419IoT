@@ -1,4 +1,4 @@
-const int photocellPin = A0;  // Photocell connected to Analog 0
+const int photocellPin = A0;  
 const int yellowLedPin = 5;   // Yellow LED connected to Digital 5
 // Range is 0 (pitch black) to 1023 (blindingly bright)
 const int darknessThreshold = 400; 
